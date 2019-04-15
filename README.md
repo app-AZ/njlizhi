@@ -20,7 +20,7 @@
 |《8》|  | 2016 | 9 | 送给好友的儿歌翻唱专辑|
 |在每一条伤心的应天大街上<br><small>(Through Every Sad Street)</small>| | 2016 | 8 | 少量发行实体版|
 |这个世界会好吗 (2015 版本)<br><small>(Has Man a Future (2015 Version))</small>| 电影配乐单曲 | 2015 | 1 || 
-|工体东路没有人<br><small>(No One out on the Street)</small>|现场专辑 | 2009 |15 (+2)|来自北京愚公移山「李志单刀赴会个人弹唱专场」|
+|工体东路没有人<br><small>(No One out on the Street)</small>|现场专辑 | 2009 |15 (+2)|来自北京愚公移山「李志单刀赴会个人弹唱专场」<br>暂无无损|
 |108个关键词<br><small>(108 Keywords)</small>| | 2012 | 10 | 来自 2012-2013「108个关键词/李志的自我修养2012年度汇报演出」跨年演唱会<br>附带DVD
 |勾三搭四<br><small>(Three and Four)</small>|  | 2014 | 11 + 10| 来自 2013-2014 同名跨年演唱会<br>双CD|
 |i/O|  | 2014 | 11 | 来自 2014-2015 同名跨年演唱会<br>开始仅通过网络发行|
