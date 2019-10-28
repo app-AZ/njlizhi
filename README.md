@@ -11,6 +11,8 @@
  - 时间线在最下面，摘自维基百科[点击进入（需挂VPN）](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97 "维基百科")
  - 维基百科介绍比度娘全，情况属实。
  - 千万别去宣传，自己下载后再给别人，被删都不好过。
+# 10.28更新
+ - 考虑用一台洛杉矶服务器提供下载，先测试一个月，不行继续邮件吧，预计今晚搞定
 ![njlizhi](https://github.com/app-AZ/njlizhi/blob/master/njlizhi.jpg)
 # 时间线
 | 专辑|性质 | 年份| 曲目数 | 备注 |
